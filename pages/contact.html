@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Togepi">
+    <meta name="description" content="Site informativo sobre o TCC do grupo Togepí sobre desastres naturais">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../media/css/styles.css" type="text/css">
+    <link rel="icon" href="../media/imgs/icon-togepi2.png" type="image/x-icon">
+    <title>Grupo Togepi</title>
+</head>
+<body>
+    <header class="header">
+        <div class="page-title">
+            <div class="title">
+                <a href="../index.html">
+                    <img src="../media/imgs/icon-togepi.png" alt="icon-togepi">
+                </a>
+            </div>
+
+            <div class="title-page">
+                <a href="#">Contato</a>
+            </div>
+        </div>
+
+        <nav class="navbar">
+            <ul class="navbar-links">
+                <li class="navbar-itens">
+                    <a href="page2.html">
+                        <img src="../media/imgs/icon-grupo.png" alt="">
+                    </a>
+                </li>
+                <li class="vertical-line"></li>
+                <li class="navbar-itens">
+                    <a href="page3.html">
+                        <img src="../media/imgs/icon-aplicacao.png" alt="">  
+                    </a>
+                </li>
+                <li class="vertical-line"></li>
+                <li class="navbar-itens">
+                    <a href="#">
+                        <img src="../media/imgs/icon-conversa.png" alt="">
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article class="contato">
+            <h1>• Contato •</h1>
+            <form action="https://httpbin.org/get" method="get">
+                <fieldset>
+                    <div>
+                        <label for="origin-name">Nome</label> <br>
+                        <input type="text" name="origin-name" id="origin-name" required autofocus class="input">
+                    </div>
+                    <div>
+                        <label for="email">E-mail</label> <br>
+                        <input type="email" name="email" id="email" required class="input">
+                    </div>
+                    <div>
+                        <label for="mensagem">Mensagem</label> <br>
+                        <textarea name="mensagem" id="mensagem" required data-contact-message cols="30" rows="10" class="input"></textarea>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="termos" id="termos" required>
+                        <span>Concordar com a coleta e uso de informações pessoais / Ver termos e condições.</span>
+                    </div> 
+                    
+                    <input type="submit" class="button-submit">
+                </fieldset>     
+            </form>
+        </article>
+    </main>
+
+    <footer>
+        <div class="footer-social">   
+            <div class="footer-social-title">
+                <a href="index.html">
+                    <img src="../media/imgs/icon-togepi.png" alt="icon-narras" height="44" width="44">
+                    <h1>Togepi</h1>
+                </a>   
+            </div>
+            <nav class="footer-social-medias">
+                <ul>
+                    <li>
+                        <a href="https://www.instagram.com/mechamokaua">
+                            <img src="../media/imgs/icon-instagram.png" alt="icon-instagram" height="25" width="25" title="Instagram">
+                        </a>
+                    </li>
+                    
+                    <li>    
+                        <a href="https://github.com/Kaua15">
+                            <img src="../media/imgs/icon-github.png" alt="icon-github" height="25" width="25" title="GitHub">
+                        </a>
+                    </li> 
+                    <li>
+                        <a href="https://br.pinterest.com/mechamokaua/_created/">
+                            <img src="../media/imgs/icon-pinterest.png" alt="icon-github" height="25" width="25" title="GitHub">
+                        </a>
+                    </li>    
+                </ul>
+            </nav>
+        </div>
+
+        <div class="footer-terms">
+            <nav>
+                <ul>
+                    <li><a href="#footer">Legal</a></li>
+                    <li><a href="#footer">Centro de Privacidade</a></li>
+                    <li><a href="#footer">Política de privacidade</a></li>
+                    <li><a href="#footer">Cookies</a></li>
+                    <li><a href="#footer">Sobre anúncios</a></li>
+                </ul>
+            </nav>
+            <div>
+                <address>© Brasil</address>
+                <span>©Copyright 2022, TCC Togepi - Todos direitos reservados</span> 
+            </div>
+        </div> 
+    </footer>
+</body>
+</html>

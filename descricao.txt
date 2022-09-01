@@ -1,0 +1,29 @@
+header:
+Icon Togepi
+Pagina referente
+
+Home
+Grupo
+Aplicação
+Contato
+
+
+home -> 
+Navegation Safe
+Aplicação para o mapeamento de desastres naturais
+Saiba Mais
+
+Grupo -> 
+Por que togepi?
+Missão e Valores do grupo
+Membros do grupo
+
+Aplicação -> 
+Descrição do APP
+Objeitivo do APP
+Area de Atuação
+Tecnologias usadas
+
+Footer
+
+
