@@ -72,10 +72,10 @@
             <section class="missao-valores">        
                 <div class="missaovalores-desc-nomegrupo">
                     <h2>Nome do Grupo</h2>
-                    <p align="center">
+                    <p>
                         A idéia do nome do grupo veio pois o pokemon togepi em sua primeira forma é muito fraco e indefeso, porém conforme ele evolui, fica incrivelmente forte
                     </p>
-                    <p align="center">
+                    <p>
                         O mesmo vale para o nosso projeto, ele se iniciou básico e está evoluindo a cada dia que passa!
                     </p>
                     
@@ -235,7 +235,7 @@
                 <div class="integrantes-pessoa">
                     <div class="pessoa-nome">
                         <h3>Henrique</h3>
-                        <p>Responsável pela criação do banco de dados e folders de divulgação</p>
+                        <p>Responsável pela criação do banco de dadose folders de divulgação</p>
                     </div>
 
                     <div class="pessoa-funcao-social">
@@ -276,7 +276,7 @@
             <nav class="footer-social-medias">
                 <ul>
                     <li>
-                        <a href="https://www.instagram.com/navigation.safe/">
+                        <a href="https://www.instagram.com/mechamokaua">
                             <img src="../media/imgs/icon-instagram.png" alt="icon-instagram" height="25" width="25" title="Instagram">
                         </a>
                     </li>

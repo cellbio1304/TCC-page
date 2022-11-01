@@ -305,7 +305,17 @@ footer {
 }
 
 
+
+
+
+
 /* PAGE 2 */
+/* PAGE 2 */
+/* PAGE 2 */
+/* PAGE 2 */
+
+
+
 
 .saiba-mais {
     min-height: 92vh;
@@ -371,6 +381,7 @@ footer {
     width: 583px;
 }
 
+
 @media screen and (max-width: 600px) {
     .missao-valores img {
         height: 100px;
@@ -389,6 +400,18 @@ footer {
 }
 
 @media screen and (max-width: 400px) {
+    .sobre {
+        padding: 0.2em;
+    }
+
+
+}
+
+@media screen and (max-width: 1920px) {
+    .missao-valores img {
+        height: 300px;
+    }
+
     .sobre {
         padding: 0.2em;
     }
